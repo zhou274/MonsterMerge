@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b1db904ec2914bd08d8c2b314c318274
+timeCreated: 1562429968
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "ebrima"
+  fontNames:
+  - Ebrima
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

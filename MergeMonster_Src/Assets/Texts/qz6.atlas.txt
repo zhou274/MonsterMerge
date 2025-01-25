@@ -1,0 +1,83 @@
+
+qz6.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6-1
+  rotate: false
+  xy: 2, 95
+  size: 148, 152
+  orig: 148, 152
+  offset: 0, 0
+  index: -1
+6-10
+  rotate: false
+  xy: 2, 2
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+6-11
+  rotate: false
+  xy: 50, 52
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+6-2
+  rotate: true
+  xy: 152, 90
+  size: 157, 72
+  orig: 157, 72
+  offset: 0, 0
+  index: -1
+6-3
+  rotate: false
+  xy: 95, 54
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+6-4
+  rotate: false
+  xy: 226, 206
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+6-5
+  rotate: false
+  xy: 226, 128
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+6-6
+  rotate: false
+  xy: 226, 167
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+6-7
+  rotate: false
+  xy: 86, 11
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+6-8
+  rotate: false
+  xy: 50, 10
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+6-9
+  rotate: false
+  xy: 2, 48
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1

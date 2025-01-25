@@ -1,0 +1,48 @@
+
+delete.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+delete-st
+  rotate: false
+  xy: 2, 111
+  size: 174, 137
+  orig: 174, 137
+  offset: 0, 0
+  index: -1
+delete-y
+  rotate: false
+  xy: 2, 27
+  size: 167, 82
+  orig: 167, 82
+  offset: 0, 0
+  index: -1
+delete-y1
+  rotate: false
+  xy: 171, 2
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+delete-y2
+  rotate: true
+  xy: 171, 54
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+delete-y3
+  rotate: false
+  xy: 178, 195
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+delete-z
+  rotate: true
+  xy: 178, 119
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+qz4.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-1
+  rotate: false
+  xy: 2, 5
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+4-2
+  rotate: false
+  xy: 108, 84
+  size: 123, 35
+  orig: 123, 35
+  offset: 0, 0
+  index: -1
+4-3
+  rotate: false
+  xy: 108, 57
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+4-4
+  rotate: false
+  xy: 108, 29
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+4-5
+  rotate: false
+  xy: 108, 2
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+4-6
+  rotate: false
+  xy: 156, 62
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1

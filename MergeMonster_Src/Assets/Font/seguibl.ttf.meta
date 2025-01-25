@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2c3eae0e826f4203ba7a26110ee1624c
+timeCreated: 1562429997
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "seguibl"
+  fontNames:
+  - Segoe UI
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

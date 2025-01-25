@@ -1,0 +1,62 @@
+
+qz5.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5-1
+  rotate: false
+  xy: 2, 11
+  size: 118, 115
+  orig: 118, 115
+  offset: 0, 0
+  index: -1
+5-2
+  rotate: false
+  xy: 122, 86
+  size: 129, 40
+  orig: 129, 40
+  offset: 0, 0
+  index: -1
+5-3
+  rotate: false
+  xy: 203, 48
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+5-4
+  rotate: false
+  xy: 144, 7
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+5-5
+  rotate: false
+  xy: 122, 2
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+5-6
+  rotate: false
+  xy: 172, 12
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+5-8
+  rotate: false
+  xy: 170, 46
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+5-9
+  rotate: false
+  xy: 122, 41
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1

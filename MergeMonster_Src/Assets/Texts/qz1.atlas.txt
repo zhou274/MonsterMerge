@@ -1,0 +1,20 @@
+
+qz1.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: false
+  xy: 2, 62
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+1-2
+  rotate: true
+  xy: 2, 2
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
